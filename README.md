@@ -14,4 +14,5 @@
                     State::create($value);
                 }
 
-
+# for user seeder 
+    php artisan db:seed   
