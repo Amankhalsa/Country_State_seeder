@@ -58,6 +58,7 @@ use App\Models\Income;
                         ]);
                
 main Steps:
-    1st   *   php artisan make:model Education -m   
-    2nd   *   php artisan make:seeder IncomeSeeder
-    3rd   *   php artisan db:seed --class=EducationSeeder
+
+    *   php artisan make:model Education -m   
+    *   php artisan make:seeder IncomeSeeder
+    *   php artisan db:seed --class=EducationSeeder
