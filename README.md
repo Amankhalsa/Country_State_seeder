@@ -17,6 +17,6 @@
 # for user seeder 
     php artisan db:seed   
 
-php artisan make:seeder IncomeSeeder
-php artisan make:model Education -m   
-php artisan db:seed --class=EducationSeeder
+     *   php artisan make:seeder IncomeSeeder
+     *   php artisan make:model Education -m   
+     *   php artisan db:seed --class=EducationSeeder
