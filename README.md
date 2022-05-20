@@ -49,7 +49,7 @@ use App\Models\Income;
 
 * 4th Add this function using model class name 
 ========================================
-5th Run this commad****
+* 5th Run this commad****
 php artisan db:seed --class=EducationSeeder
 
                   $this->call([
